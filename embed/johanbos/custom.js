@@ -12,12 +12,12 @@ function renderHtml() {
         <section class="my-section">
             <div class="frame-content-container">
                 <div class="img-container-1 justify-content-center">
-                    <img src="https://thekitchenarchitects.nl/wp-content/uploads/2020/01/kitchen-arcjitects-logo.png" />
+                    <img src="https://thekitchenartstudios.nl/wp-content/uploads/2020/01/kitchen-art-studios-logo.png" />
                 </div>
                 <div class="text-container-1">
-                    <h2>Welkom bij ‘The Kitchen Architects’!</h2>
+                    <h2>Welkom bij ‘The Kitchen Art Studios’!</h2>
                     <p>
-                    Wij zijn aangesloten bij het samenwerkingsconcept ‘The Kitchen Architects’: een landelijk platform van ware keuken architecten. Onze verbindende factor is de passie voor het creëren van een unieke keuken als ware eyecatcher. Wij zijn zelfstandige ondernemers die de filosofie ‘We imagine your style’ kunnen vertalen vanuit uw wensen. Door de krachten landelijk te bundelen op het gebied van inkoop en marketing, kunnen wij u de hoogste kwaliteit en de beste leveranciers bieden
+                    Wij zijn aangesloten bij het samenwerkingsconcept ‘The Kitchen Art Studios’: een landelijk platform van ware keuken art. Onze verbindende factor is de passie voor het creëren van een unieke keuken als ware eyecatcher. Wij zijn zelfstandige ondernemers die de filosofie ‘We imagine your style’ kunnen vertalen vanuit uw wensen. Door de krachten landelijk te bundelen op het gebied van inkoop en marketing, kunnen wij u de hoogste kwaliteit en de beste leveranciers bieden
                     </p>
                 </div>
             </div>
@@ -32,34 +32,34 @@ function renderHtml() {
               <div class="swiper-wrapper">
                 <!-- Slides -->
                 <div class="swiper-slide">
-                    <img src="https://thekitchenarchitects.nl/wp-content/uploads/2021/10/johan-bos-the-kitchen-architects-inspiratieslider-1.jpg">
+                    <img src="https://thekitchenartstudios.nl/wp-content/uploads/2021/10/johan-bos-the-kitchen-art-studios-inspiratieslider-1.jpg">
                 </div>
                 <div class="swiper-slide">
-                    <img src="https://thekitchenarchitects.nl/wp-content/uploads/2021/10/johan-bos-the-kitchen-architects-inspiratieslider-2.jpg">
+                    <img src="https://thekitchenartstudios.nl/wp-content/uploads/2021/10/johan-bos-the-kitchen-art-studios-inspiratieslider-2.jpg">
                 </div>
                 <div class="swiper-slide">
-                    <img src="https://thekitchenarchitects.nl/wp-content/uploads/2021/10/johan-bos-the-kitchen-architects-inspiratieslider-3.jpg">
+                    <img src="https://thekitchenartstudios.nl/wp-content/uploads/2021/10/johan-bos-the-kitchen-art-studios-inspiratieslider-3.jpg">
                 </div>
                 <div class="swiper-slide">
-                    <img src="https://thekitchenarchitects.nl/wp-content/uploads/2021/10/johan-bos-the-kitchen-architects-inspiratieslider-4.jpg">
+                    <img src="https://thekitchenartstudios.nl/wp-content/uploads/2021/10/johan-bos-the-kitchen-art-studios-inspiratieslider-4.jpg">
                 </div>
                 <div class="swiper-slide">
-                    <img src="https://thekitchenarchitects.nl/wp-content/uploads/2021/10/johan-bos-the-kitchen-architects-inspiratieslider-5.jpg">
+                    <img src="https://thekitchenartstudios.nl/wp-content/uploads/2021/10/johan-bos-the-kitchen-art-studios-inspiratieslider-5.jpg">
                 </div>
                 <div class="swiper-slide">
-                    <img src="https://thekitchenarchitects.nl/wp-content/uploads/2021/10/johan-bos-the-kitchen-architects-inspiratieslider-6.jpg">
+                    <img src="https://thekitchenartstudios.nl/wp-content/uploads/2021/10/johan-bos-the-kitchen-art-studios-inspiratieslider-6.jpg">
                 </div>
                 <div class="swiper-slide">
-                    <img src="https://thekitchenarchitects.nl/wp-content/uploads/2021/10/johan-bos-the-kitchen-architects-inspiratieslider-7.jpg">
+                    <img src="https://thekitchenartstudios.nl/wp-content/uploads/2021/10/johan-bos-the-kitchen-art-studios-inspiratieslider-7.jpg">
                 </div>
                 <div class="swiper-slide">
-                    <img src="https://thekitchenarchitects.nl/wp-content/uploads/2021/10/johan-bos-the-kitchen-architects-inspiratieslider-8.jpg">
+                    <img src="https://thekitchenartstudios.nl/wp-content/uploads/2021/10/johan-bos-the-kitchen-art-studios-inspiratieslider-8.jpg">
                 </div>
                 <div class="swiper-slide">
-                    <img src="https://thekitchenarchitects.nl/wp-content/uploads/2021/10/johan-bos-the-kitchen-architects-inspiratieslider-9.jpg">
+                    <img src="https://thekitchenartstudios.nl/wp-content/uploads/2021/10/johan-bos-the-kitchen-art-studios-inspiratieslider-9.jpg">
                 </div>
                 <div class="swiper-slide">
-                    <img src="https://thekitchenarchitects.nl/wp-content/uploads/2021/10/johan-bos-the-kitchen-architects-inspiratieslider-10.jpg">
+                    <img src="https://thekitchenartstudios.nl/wp-content/uploads/2021/10/johan-bos-the-kitchen-art-studios-inspiratieslider-10.jpg">
                 </div>
               </div>
             </div>
@@ -70,7 +70,7 @@ function renderHtml() {
         <section class="row text-img">
             <div class="img-container col col-md-6">
                 <div>
-                    <img class="mvdr" src="https://thekitchenarchitects.nl/wp-content/uploads/2020/03/The-kitchen-architects-monique-interview-keukens-monique-van-der-reijden-DEF.jpeg" />
+                    <img class="mvdr" src="https://thekitchenartstudios.nl/wp-content/uploads/2020/03/The-kitchen-art-studios-monique-interview-keukens-monique-van-der-reijden-DEF.jpeg" />
                 </div>
                     </div>
             <div class="col col-md-6">
@@ -78,14 +78,14 @@ function renderHtml() {
                 <p>
                     Trendwatcher en forecaster bij o.a. Elle Decoration, Eigen
                     Huis & Interieur en de Telegraaf heeft speciaal voor The
-                    Kitchen Architects de 4 trends van de komende jaren samengesteld.
+                    Kitchen Art Studios de 4 trends van de komende jaren samengesteld.
                 </p>
                 <p>
                     Laat u inspireren door de stijlvolle combinaties van de trend Sereen Steen of durf te experimenteren met kleur en structuur
                     zoals in de trend Colorblock.
                 </p>
                 <br>
-                <a href="https://thekitchenarchitects.nl/trends/" target="_blank">Bekijk onze trends</a>
+                <a href="https://thekitchenartstudios.nl/trends/" target="_blank">Bekijk onze trends</a>
             </div>
         </section>
         <br>
@@ -94,16 +94,16 @@ function renderHtml() {
             <div class="col col-md-6">
                 <h2>samenwerking <span class="line">'van woonvilla </span><span>naar droomvilla'</span class"line"> <span class="line">op rtl4</span></h2>
                 <p>
-                Wij, van The Kitchen Architects, hebben een uitstekende samenwerking met Designa Interieur en Architectuur: bekend van het RTL4 programma ‘Van Woonvilla naar Droomvilla’. In samenwerking met Designa worden de nieuwste trends gespot door ons op het gebied van statement keukens en innovatieve apparatuur.
+                Wij, van The Kitchen Art Studios, hebben een uitstekende samenwerking met Designa Interieur en Architectuur: bekend van het RTL4 programma ‘Van Woonvilla naar Droomvilla’. In samenwerking met Designa worden de nieuwste trends gespot door ons op het gebied van statement keukens en innovatieve apparatuur.
                 </p>
                 <br>
-                <a href="https://thekitchenarchitects.nl/samenwerkingen/designa/" target="_blank">Meer informatie</a>
+                <a href="https://thekitchenartstudios.nl/samenwerkingen/designa/" target="_blank">Meer informatie</a>
             </div>
             <div class="img-container col col-md-6" id="rtl-section">
-                <img src="https://thekitchenarchitects.nl/wp-content/uploads/2020/05/Kitchen-Architects-samenwerkingen-designa-keukens-schilderij.png" />
-                <img class="img-logo" src="https://thekitchenarchitects.nl/wp-content/uploads/2021/02/Woonvilla-logo.png" />
+                <img src="https://thekitchenartstudios.nl/wp-content/uploads/2020/05/Kitchen-art-studios-samenwerkingen-designa-keukens-schilderij.png" />
+                <img class="img-logo" src="https://thekitchenartstudios.nl/wp-content/uploads/2021/02/Woonvilla-logo.png" />
                 <p id="tv">Bekend van TV</p>
-                <img class="img-logo" id="rtl4" src="https://thekitchenarchitects.nl/wp-content/uploads/2021/02/RTL4-logo.png" />
+                <img class="img-logo" id="rtl4" src="https://thekitchenartstudios.nl/wp-content/uploads/2021/02/RTL4-logo.png" />
             </div>
         </section>
         <br>
@@ -116,22 +116,22 @@ function renderHtml() {
               <div class="swiper-wrapper">
                 <!-- Slides -->
                 <div class="swiper-slide stylebook">
-                    <img src="https://thekitchenarchitects.nl/wp-content/uploads/2021/10/johan-bos-the-kitchen-architects-stylebook-1-scaled.jpg">
+                    <img src="https://thekitchenartstudios.nl/wp-content/uploads/2021/10/johan-bos-the-kitchen-art-studios-stylebook-1-scaled.jpg">
                 </div>
                 <div class="swiper-slide stylebook">
-                    <img src="https://thekitchenarchitects.nl/wp-content/uploads/2021/10/johan-bos-the-kitchen-architects-stylebook-2-scaled.jpg">
+                    <img src="https://thekitchenartstudios.nl/wp-content/uploads/2021/10/johan-bos-the-kitchen-art-studios-stylebook-2-scaled.jpg">
                 </div>
                 <div class="swiper-slide stylebook">
-                    <img src="https://thekitchenarchitects.nl/wp-content/uploads/2021/10/johan-bos-the-kitchen-architects-stylebook-3-scaled.jpg">
+                    <img src="https://thekitchenartstudios.nl/wp-content/uploads/2021/10/johan-bos-the-kitchen-art-studios-stylebook-3-scaled.jpg">
                 </div>
                 <div class="swiper-slide stylebook">
-                    <img src="https://thekitchenarchitects.nl/wp-content/uploads/2021/10/johan-bos-the-kitchen-architects-stylebook-4-scaled.jpg">
+                    <img src="https://thekitchenartstudios.nl/wp-content/uploads/2021/10/johan-bos-the-kitchen-art-studios-stylebook-4-scaled.jpg">
                 </div>
                 <div class="swiper-slide stylebook">
-                    <img src="https://thekitchenarchitects.nl/wp-content/uploads/2021/10/johan-bos-the-kitchen-architects-stylebook-6-scaled.jpg">
+                    <img src="https://thekitchenartstudios.nl/wp-content/uploads/2021/10/johan-bos-the-kitchen-art-studios-stylebook-6-scaled.jpg">
                 </div>
                 <div class="swiper-slide stylebook">
-                    <img src="https://thekitchenarchitects.nl/wp-content/uploads/2021/10/johan-bos-the-kitchen-architects-stylebook-7-scaled.jpg">
+                    <img src="https://thekitchenartstudios.nl/wp-content/uploads/2021/10/johan-bos-the-kitchen-art-studios-stylebook-7-scaled.jpg">
                 </div>
               </div>
             </div>
@@ -152,11 +152,11 @@ function renderHtml() {
                         Maak een <a href="https://www.johanboskeukens.nl/contact/" target="_blank">afspraak</a> voor een adviesgesprek en kom langs in onze inspiratieshowroom waar u de mooiste creaties ontdekt.
                     </p>
                     <p>
-                    In onze showroom treft u ons prachtige Stylebook met meer informatie over ons bedrijf en de nieuwste trends op het gebied van keukens & living. In dit Stylebook nemen wij u mee naar één van onze klanten, zodat u onze kwaliteit kunt ervaren. Laat u inspireren door The Kitchen Architects!
+                    In onze showroom treft u ons prachtige Stylebook met meer informatie over ons bedrijf en de nieuwste trends op het gebied van keukens & living. In dit Stylebook nemen wij u mee naar één van onze klanten, zodat u onze kwaliteit kunt ervaren. Laat u inspireren door The Kitchen Art Studios!
                     </p>
                 </div>
             </div>
-            <p class="tka"><span>The</span> Kitchen Architects</p>
+            <p class="tka"><span>The</span> Kitchen Art Studios</p>
             <p class="phrase">We Imagine Your Style</p>
         </section>
     </div>
