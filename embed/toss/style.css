@@ -1470,10 +1470,12 @@
   
   .swiper-container,
   .swiper-container-2 {
+    position: relative;
+    overflow: hidden;
     width: 100%;
     height: 100%;
   }
-  
+
   .swiper-slide img {
     object-fit: cover;
     width: 100%;
