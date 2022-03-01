@@ -15,7 +15,7 @@ function renderHtml() {
                     <img src="https://thekitchenarchitects.nl/wp-content/uploads/2020/01/kitchen-arcjitects-logo.png" />
                 </div>
                 <div class="text-container-1">
-                    <h2>Welkom bij<br> The Kitchen Art Studios!!!!!!!!!</h2>
+                    <h2>Welkom bij<br> The Kitchen Art Studios!</h2>
                     <p>
                     Wij zijn aangesloten bij het samenwerkingsconcept ‘The Kitchen Art Studios’: een landelijk platform van ware keuken art. Onze verbindende factor is de passie voor het creëren van een unieke keuken als ware eyecatcher. Wij zijn zelfstandige ondernemers die de filosofie ‘We imagine your style’ kunnen vertalen vanuit uw wensen. Door de krachten landelijk te bundelen op het gebied van inkoop en marketing, kunnen wij u de hoogste kwaliteit en de beste leveranciers bieden
                     </p>
