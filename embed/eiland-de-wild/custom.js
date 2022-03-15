@@ -12,7 +12,7 @@ function renderHtml() {
         <section class="my-section">
             <div class="frame-content-container">
                 <div class="img-container-1 justify-content-center">
-                    <img src="https://thekitchenartstudios.nl/wp-content/uploads/2020/01/kitchen-arcjitects-logo.png" />
+                    <img src="https://thekitchenartstudios.nl/wp-content/uploads/2022/02/the-kitchen-art-studios-logo.png" />
                 </div>
                 <div class="text-container-1">
                     <h2> Welkom bij<br> The Kitchen Art Studios!</h2>

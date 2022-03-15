@@ -12,12 +12,12 @@ function renderHtml() {
         <section class="my-section">
             <div class="frame-content-container">
                 <div class="img-container-1 justify-content-center">
-                    <img src="https://thekitchenarchitects.nl/wp-content/uploads/2020/01/kitchen-arcjitects-logo.png" />
+                    <img src="https://thekitchenartstudios.nl/wp-content/uploads/2022/02/the-kitchen-art-studios-logo.png" />
                 </div>
                 <div class="text-container-1">
-                    <h2>Welkom bij ‘The Kitchen Architects’!</h2>
+                    <h2>Welkom bij<br> The Kitchen Art Studios!</h2>
                     <p>
-                    Wij zijn aangesloten bij het samenwerkingsconcept ‘The Kitchen Architects’: een landelijk platform van ware keuken architecten. Onze verbindende factor is de passie voor het creëren van een unieke keuken als ware eyecatcher. Wij zijn zelfstandige ondernemers die de filosofie ‘We imagine your style’ kunnen vertalen vanuit uw wensen. Door de krachten landelijk te bundelen op het gebied van inkoop en marketing, kunnen wij u de hoogste kwaliteit en de beste leveranciers bieden.
+                    Wij zijn aangesloten bij het samenwerkingsconcept ‘The Kitchen Art Studios’: een landelijk platform van ware keuken architecten. Onze verbindende factor is de passie voor het creëren van een unieke keuken als ware eyecatcher. Wij zijn zelfstandige ondernemers die de filosofie ‘We imagine your style’ kunnen vertalen vanuit uw wensen. Door de krachten landelijk te bundelen op het gebied van inkoop en marketing, kunnen wij u de hoogste kwaliteit en de beste leveranciers bieden.
                     </p>
                 </div>
             </div>
@@ -36,7 +36,7 @@ function renderHtml() {
                 <p>
                     Trendwatcher en forecaster bij o.a. Elle Decoration, Eigen
                     Huis & Interieur en de Telegraaf heeft speciaal voor The
-                    Kitchen Architects de 4 trends van de komende jaren samengesteld.
+                    Kitchen Art Studios de 4 trends van de komende jaren samengesteld.
                 </p>
                 <p>
                     Laat u inspireren door de stijlvolle combinaties van de trend Sereen Steen of durf te experimenteren met kleur en structuur
@@ -53,7 +53,7 @@ function renderHtml() {
             <div class="col col-md-6">
                 <h2>samenwerking <span class="line">'van woonvilla </span><span>naar droomvilla'</span class"line"> <span class="line">op rtl4</span></h2>
                 <p>
-                Wij, van The Kitchen Architects, hebben een uitstekende samenwerking met Designa Interieur en Architectuur: bekend van het RTL4 programma ‘Van Woonvilla naar Droomvilla’. In samenwerking met Designa worden de nieuwste trends gespot door ons op het gebied van statement keukens en innovatieve apparatuur.
+                Wij, van The Kitchen Art Studios, hebben een uitstekende samenwerking met Designa Interieur en Architectuur: bekend van het RTL4 programma ‘Van Woonvilla naar Droomvilla’. In samenwerking met Designa worden de nieuwste trends gespot door ons op het gebied van statement keukens en innovatieve apparatuur.
                 </p>
                 <br>
                 <a href="https://www.youtube.com/watch?v=sYXqMI12b5I" target="_blank">Bekijk afleveringen</a>
@@ -102,7 +102,7 @@ function renderHtml() {
                         Maak een <a href="https://markroskeukenseninterieur.nl/" target="_blank">afspraak</a> voor een adviesgesprek en kom langs in onze inspiratieshowroom waar u de mooiste creaties ontdekt.
                     </p>
                     <p>
-                    In onze showroom treft u ons prachtige Stylebook met meer informatie over ons bedrijf en de nieuwste trends op het gebied van keukens & living. In dit Stylebook nemen wij u mee naar één van onze klanten, zodat u onze kwaliteit kunt ervaren. Laat u inspireren door The Kitchen Architects!
+                    In onze showroom treft u ons prachtige Stylebook met meer informatie over ons bedrijf en de nieuwste trends op het gebied van keukens & living. In dit Stylebook nemen wij u mee naar één van onze klanten, zodat u onze kwaliteit kunt ervaren. Laat u inspireren door The Kitchen Art Studios!
                     </p>
                 </div>
             </div>
@@ -115,7 +115,7 @@ function renderHtml() {
                 <br>
                 <br>
                 <br>
-                <p class="tka"><span>The</span> Kitchen Architects |</p>  
+                <p class="tka"><span>The</span> Kitchen Art Studios |</p>  
                 <p class="phrase">We Imagine Your Style</p>
             </div>
         </section>
