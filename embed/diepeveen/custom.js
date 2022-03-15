@@ -220,16 +220,7 @@ function renderHtml() {
                 <div style="border-bottom: 20px solid #c99b0e; border-right: 20px solid #c99b0e; width: 96px; height: 96px; position: absolute; right: 0%; bottom: 0%; z-index:999;"></div>  
             </div>
         </section>
-        <br>
-        <br>
-        <br>
-        <br>
-    
-        <section>
-            <div class="col-md-12">
-                <br>
-            </div>
-        </section>
+
     </div>
     <br>
     `;
