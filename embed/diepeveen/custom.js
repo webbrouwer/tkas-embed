@@ -174,6 +174,8 @@ function renderHtml() {
                 </div>
             </div>
             <br>
+            <p class="tka"><span>The</span> Kitchen Art Studios</p>  
+                <p class="phrase">We Imagine Your Style</p>
         </section>
             <br>
     
@@ -226,8 +228,6 @@ function renderHtml() {
         <section>
             <div class="col-md-12">
                 <br>
-                <p class="tka"><span>The</span> Kitchen Art Studios |</p>  
-                <p class="phrase">We Imagine Your Style</p>
             </div>
         </section>
     </div>
