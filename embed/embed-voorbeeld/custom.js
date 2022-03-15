@@ -107,22 +107,10 @@ function renderHtml() {
                 </div>
             </div>
             <br>
-        </section>
-        <br>
-
-        <section>
-            <div class="col-md-12">
-                <br>
-                <br>
-                <br>
-                <p class="tka"><span>The</span> Kitchen Art Studios |</p>  
+            <p class="tka"><span>The</span> Kitchen Art Studios |</p>  
                 <p class="phrase">We Imagine Your Style</p>
-            </div>
         </section>
         <br>
-        <br>
-        <br>
-           
     </div>
     <br>
     `;
