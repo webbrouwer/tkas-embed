@@ -326,8 +326,6 @@ function renderHtml() {
         </section>
         <br>
         <br>
-        <br>
-        <br>
            
     </div>
     <br>
