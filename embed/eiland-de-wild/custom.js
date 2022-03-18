@@ -17,7 +17,7 @@ function renderHtml() {
                 <div class="text-container-1">
                     <h2> Welkom bij<br> The Kitchen Art Studios!</h2>
                     <p>
-                    Wij zijn aangesloten bij het samenwerkingsconcept ‘The Kitchen Art Studios’: een landelijk platform van ware keuken art. Onze verbindende factor is de passie voor het creëren van een unieke keuken als ware eyecatcher. Wij zijn zelfstandige ondernemers die de filosofie ‘We imagine your style’ kunnen vertalen vanuit uw wensen. Door de krachten landelijk te bundelen op het gebied van inkoop en marketing, kunnen wij u de hoogste kwaliteit en de beste leveranciers bieden
+                    Wij zijn aangesloten bij het samenwerkingsconcept ‘The Kitchen Art Studios’: een landelijk platform van ware keukenprofessionals. Onze verbindende factor is de passie voor het creëren van een unieke keuken als ware eyecatcher. Wij zijn zelfstandige ondernemers die de filosofie ‘We imagine your style’ kunnen vertalen vanuit uw wensen. Door de krachten landelijk te bundelen op het gebied van inkoop en marketing, kunnen wij u de hoogste kwaliteit en de beste leveranciers bieden
                     </p>
                 </div>
             </div>
@@ -81,7 +81,7 @@ function renderHtml() {
                 <p>
                     Trendwatcher en forecaster bij o.a. Elle Decoration, Eigen
                     Huis & Interieur en de Telegraaf heeft speciaal voor The
-                    Kitchen Art Studios de 4 trends van de komende jaren samengesteld.
+                    Kitchen Art Studios de 8 trends van de komende jaren samengesteld.
                 </p>
                 <p>
                     Laat u inspireren door de stijlvolle combinaties van de trend Sereen Steen of durf te experimenteren met kleur en structuur

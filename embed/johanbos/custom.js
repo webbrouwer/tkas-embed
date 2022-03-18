@@ -17,7 +17,7 @@ function renderHtml() {
                 <div class="text-container-1">
                     <h2>Welkom bij<br> The Kitchen Art Studios!</h2>
                     <p>
-                    Wij zijn aangesloten bij het samenwerkingsconcept ‘The Kitchen Art Studios’: een landelijk platform van ware keuken art. Onze verbindende factor is de passie voor het creëren van een unieke keuken als ware eyecatcher. Wij zijn zelfstandige ondernemers die de filosofie ‘We imagine your style’ kunnen vertalen vanuit uw wensen. Door de krachten landelijk te bundelen op het gebied van inkoop en marketing, kunnen wij u de hoogste kwaliteit en de beste leveranciers bieden
+                    Wij zijn aangesloten bij het samenwerkingsconcept ‘The Kitchen Art Studios’: een landelijk platform van ware keukenprofessionals. Onze verbindende factor is de passie voor het creëren van een unieke keuken als ware eyecatcher. Wij zijn zelfstandige ondernemers die de filosofie ‘We imagine your style’ kunnen vertalen vanuit uw wensen. Door de krachten landelijk te bundelen op het gebied van inkoop en marketing, kunnen wij u de hoogste kwaliteit en de beste leveranciers bieden
                     </p>
                 </div>
             </div>
@@ -78,7 +78,7 @@ function renderHtml() {
                 <p>
                     Trendwatcher en forecaster bij o.a. Elle Decoration, Eigen
                     Huis & Interieur en de Telegraaf heeft speciaal voor The
-                    Kitchen Art Studios de 4 trends van de komende jaren samengesteld.
+                    Kitchen Art Studios de 8 trends van de komende jaren samengesteld.
                 </p>
                 <p>
                     Laat u inspireren door de stijlvolle combinaties van de trend Sereen Steen of durf te experimenteren met kleur en structuur
@@ -97,7 +97,7 @@ function renderHtml() {
                 Wij, van The Kitchen Art Studios, hebben een uitstekende samenwerking met Designa Interieur en Architectuur: bekend van het RTL4 programma ‘Van Woonvilla naar Droomvilla’. In samenwerking met Designa worden de nieuwste trends gespot door ons op het gebied van statement keukens en innovatieve apparatuur.
                 </p>
                 <br>
-                <a href="https://thekitchenartstudios.nl/samenwerkingen/designa/" target="_blank">Meer informatie</a>
+                <a href="https://thekitchenartstudios.nl/the-kitchen-art-studios-op-tv/" target="_blank">Bekijk afleveringen</a>
             </div>
             <div class="img-container col col-md-6" id="rtl-section">
                 <img src="https://thekitchenartstudios.nl/wp-content/uploads/2020/05/Kitchen-art-studios-samenwerkingen-designa-keukens-schilderij.png" />
