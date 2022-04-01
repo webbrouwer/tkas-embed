@@ -137,10 +137,27 @@ function renderHtml() {
                     <img src="https://thekitchenartstudios.nl/wp-content/uploads/2021/06/toss-design-stylebook-6.jpg">
                 </div>                                                                
               </div>
-            </div>
-        <br>             
+            </div>            
         </section>
-        <br>       
+        <br> 
+        
+        <section class="row text-img">
+            <div class="img-container col col-md-6">
+                <div>
+                    <img class="mvdr awards-stem" src="https://thekitchenartstudios.nl/wp-content/uploads/2022/03/tkas-marmer-goud.jpg" />
+                    <div class="stem-text"> <p class="stem-op-ons">STEM OP ONS!</h1> </div>
+                </div>
+                    </div>
+            <div class="col col-md-6">
+                <h2>THE KITCHEN ART STUDIOS AWARD 2021</h2>
+                <p>
+                    Wij maken kans op The Kitchen Art Studios Award van 2021. Helpt u ons deze prachtige Award te winnen? U kunt uw stem uitbrengen via onderstaande button. Door uw stem uit te brengen maakt u kans op een overnachting in een van de luxueuze Pillows hotels.          
+                </p>
+                <br>
+                <a href="https://thekitchenartstudios.nl/awards/stemmen/?art_studio=_toss" target="_blank">Stem hier!</a>
+            </div>
+        </section>
+        <br>
 
         <section class="my-section">
             <div class="frame-content-container">
