@@ -1512,6 +1512,32 @@
     display: none;
   }
   
+  .awards-stem {
+    position: relative;
+    text-align: center;
+  }
+
+  .stem-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 80%;
+  }
+
+  .stem-op-ons {
+    font-family: "AmoretSans" !important;
+    font-size: 60px !important;
+    font-weight: 400 !important;
+    color: #c99b0e !important;
+  }
+
+  @media (max-width: 600px) {
+    .stem-op-ons {
+      font-size: 40px !important;
+    }
+  }
+
   @media (max-width: 1000px) {
     .hide-on-mobile-tablet {
       display: none !important;
