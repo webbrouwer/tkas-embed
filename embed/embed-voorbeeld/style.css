@@ -1385,7 +1385,7 @@
   
     position: absolute;
     bottom: 7%;
-    left: 49.5%;
+    left: 51%;
   }
   
   
@@ -1470,12 +1470,12 @@
   
   .swiper-container,
   .swiper-container-2 {
-    overflow: hidden;
     position: relative;
+    overflow: hidden;
     width: 100%;
     height: 100%;
   }
-  
+
   .swiper-slide img {
     object-fit: cover;
     width: 100%;

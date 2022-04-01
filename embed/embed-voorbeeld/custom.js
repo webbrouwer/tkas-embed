@@ -1,7 +1,7 @@
-var markRos = document.querySelector('#markros-embed');
+var tossEmbed = document.querySelector('#embed-voorbeeld');
 
 function renderHtml() {
-    markRos.innerHTML = `
+    tossEmbed.innerHTML = `
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Lato&display=swap" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="https://unpkg.com/swiper/swiper-bundle.css" />
@@ -15,7 +15,7 @@ function renderHtml() {
                     <img src="https://thekitchenartstudios.nl/wp-content/uploads/2022/02/the-kitchen-art-studios-logo.png" />
                 </div>
                 <div class="text-container-1">
-                    <h2>Welkom bij<br> The Kitchen Art Studios!</h2>
+                    <h2>Welkom bij<br>The Kitchen Art Studios!</h2>
                     <p>
                     Wij zijn aangesloten bij het samenwerkingsconcept ‘The Kitchen Art Studios’: een landelijk platform van ware keukenprofessionals. Onze verbindende factor is de passie voor het creëren van een unieke keuken als ware eyecatcher. Wij zijn zelfstandige ondernemers die de filosofie ‘We imagine your style’ kunnen vertalen vanuit uw wensen. Door de krachten landelijk te bundelen op het gebied van inkoop en marketing, kunnen wij u de hoogste kwaliteit en de beste leveranciers bieden.
                     </p>
@@ -24,15 +24,60 @@ function renderHtml() {
         </section>
         <br>
 
+        <section>
+            <!-- Slider main container -->
+            <div class="swiper-container">
+               <span class="swiper-slide-text">Wij inspireren u graag</span>
+              <!-- Additional required wrapper -->
+              <div class="swiper-wrapper">
+                <!-- Slides -->
+                <div class="swiper-slide">
+                    <img src="https://thekitchenartstudios.nl/wp-content/uploads/2021/06/toss-designa-the-kitchen-art-studios-1.jpg">
+                </div>
+                <div class="swiper-slide">
+                    <img src="https://thekitchenartstudios.nl/wp-content/uploads/2021/06/toss-designa-the-kitchen-art-studios-2.jpg">
+                </div>
+                <div class="swiper-slide">
+                    <img src="https://thekitchenartstudios.nl/wp-content/uploads/2021/06/toss-designa-the-kitchen-art-studios-3.jpg">
+                </div>
+                <div class="swiper-slide">
+                    <img src="https://thekitchenartstudios.nl/wp-content/uploads/2021/06/toss-designa-the-kitchen-art-studios-4.jpg">
+                </div>
+                <div class="swiper-slide">
+                    <img src="https://thekitchenartstudios.nl/wp-content/uploads/2021/06/toss-designa-the-kitchen-art-studios-5.jpg">
+                </div>                
+                <div class="swiper-slide">
+                    <img src="https://thekitchenartstudios.nl/wp-content/uploads/2021/06/toss-designa-the-kitchen-art-studios-6.jpg">
+                </div>                
+                <div class="swiper-slide">
+                    <img src="https://thekitchenartstudios.nl/wp-content/uploads/2021/06/toss-designa-the-kitchen-art-studios-7.jpg">
+                </div>                
+                <div class="swiper-slide">
+                    <img src="https://thekitchenartstudios.nl/wp-content/uploads/2021/06/toss-designa-the-kitchen-art-studios-8.jpg">
+                </div>                
+                <div class="swiper-slide">
+                    <img src="https://thekitchenartstudios.nl/wp-content/uploads/2021/06/toss-designa-the-kitchen-art-studios-9.jpg">
+                </div>                                                                                                
+                <div class="swiper-slide">
+                    <img src="https://thekitchenartstudios.nl/wp-content/uploads/2021/06/toss-designa-the-kitchen-art-studios-10-v2.png">
+                </div>
+                <div class="swiper-slide">
+                    <img src="https://thekitchenartstudios.nl/wp-content/uploads/2021/06/toss-designa-the-kitchen-art-studios-11.jpg">
+                </div>                
+              </div>
+            </div>
+        </section>
+
+        <br>
+
         <section class="row text-img">
             <div class="img-container col col-md-6">
                 <div>
-                    <img class="mvdr" src="https://thekitchenarchitects.nl/wp-content/uploads/2020/03/The-kitchen-architects-monique-interview-keukens-monique-van-der-reijden-DEF.jpeg" />
+                    <img class="mvdr" src="https://thekitchenartstudios.nl/wp-content/uploads/2020/03/The-kitchen-art-studios-monique-interview-keukens-monique-van-der-reijden-DEF.jpeg" />
                 </div>
                     </div>
             <div class="col col-md-6">
                 <h2>Samenwerking<br> Monique van Der Reijden</h2>
-                <br>
                 <p>
                     Trendwatcher en forecaster bij o.a. Elle Decoration, Eigen
                     Huis & Interieur en de Telegraaf heeft speciaal voor The
@@ -43,8 +88,7 @@ function renderHtml() {
                     zoals in de trend Colorblock.
                 </p>
                 <br>
-                <br>
-                <a href="https://thekitchenarchitects.nl/trends/" target="_blank">Bekijk onze trends</a>
+                <a href="https://thekitchenartstudios.nl/trends/" target="_blank">Bekijk onze trends</a>
             </div>
         </section>
         <br>
@@ -59,34 +103,44 @@ function renderHtml() {
                 <a href="https://thekitchenartstudios.nl/the-kitchen-art-studios-op-tv/" target="_blank">Bekijk afleveringen</a>
             </div>
             <div class="img-container col col-md-6" id="rtl-section">
-                <img src="https://thekitchenarchitects.nl/wp-content/uploads/2020/05/Kitchen-Architects-samenwerkingen-designa-keukens-schilderij.png" />
-                <img class="img-logo" src="https://thekitchenarchitects.nl/wp-content/uploads/2021/02/Woonvilla-logo.png" />
+                <img src="https://thekitchenartstudios.nl/wp-content/uploads/2020/05/Kitchen-art-studios-samenwerkingen-designa-keukens-schilderij.png" />
+                <img class="img-logo" src="https://thekitchenartstudios.nl/wp-content/uploads/2021/02/Woonvilla-logo.png" />
                 <p id="tv">Bekend van TV</p>
-                <img class="img-logo" id="rtl4" src="https://thekitchenarchitects.nl/wp-content/uploads/2021/02/RTL4-logo.png" />
+                <img class="img-logo" id="rtl4" src="https://thekitchenartstudios.nl/wp-content/uploads/2021/02/RTL4-logo.png" />
             </div>
         </section>
-        <br>  
+        <br>   
 
-        <section class="row text-img">
-            <div class="img-container col col-md-6">
-                <div>
-                    <img class="mvdr" src="https://thekitchenarchitects.nl/wp-content/uploads/2021/08/markross-blogs-embed-the-kitchen-architects.png" />
+        <section class="hide-on-mobile-tablet">
+            <!-- Slider main container -->
+            <div class="swiper-container">
+              <span class="swiper-slide-text">Impressie stylebook</span>            
+              <!-- Additional required wrapper -->
+              <div class="swiper-wrapper">
+                <!-- Slides -->
+                <div class="swiper-slide stylebook">
+                    <img src="https://thekitchenartstudios.nl/wp-content/uploads/2021/06/toss-design-stylebook-1.jpg">
                 </div>
-                    </div>
-            <div class="col col-md-6">
-                <h2>Inspirerende blogs</h2>
-                <br>
-                <p>
-                    Omdat een keuken steeds meer een statement wordt, inspireren wij u met onze blogs. <br><br>
-                    Hiermee maken we van uw keuken een uniek middelpunt en creëren we tevens een exceptioneel samenspel met haar omgeving.
-                </p>
-                <br>
-                <br>
-                <br>
-                <a href="https://thekitchenarchitects.nl/blogs/" target="_blank">Lees hier onze blogs</a>
+                <div class="swiper-slide stylebook">
+                    <img src="https://thekitchenartstudios.nl/wp-content/uploads/2021/06/toss-design-stylebook-2.jpg">
+                </div>
+                <div class="swiper-slide stylebook">
+                    <img src="https://thekitchenartstudios.nl/wp-content/uploads/2021/06/toss-design-stylebook-3.jpg">
+                </div>
+                <div class="swiper-slide stylebook">
+                    <img src="https://thekitchenartstudios.nl/wp-content/uploads/2021/06/toss-design-stylebook-4.jpg">
+                </div>
+                <div class="swiper-slide stylebook">
+                    <img src="https://thekitchenartstudios.nl/wp-content/uploads/2021/06/toss-design-stylebook-5.jpg">
+                </div>
+                <div class="swiper-slide stylebook">
+                    <img src="https://thekitchenartstudios.nl/wp-content/uploads/2021/06/toss-design-stylebook-6.jpg">
+                </div>                                                                
+              </div>
             </div>
+        <br>             
         </section>
-        <br>        
+        <br>       
 
         <section class="my-section">
             <div class="frame-content-container">
@@ -99,7 +153,7 @@ function renderHtml() {
                 <div class="text-container-1">
                     <h2>Ready to imagine your style?</h2>
                     <p>
-                        Maak een <a href="https://markroskeukenseninterieur.nl/" target="_blank">afspraak</a> voor een adviesgesprek en kom langs in onze inspiratieshowroom waar u de mooiste creaties ontdekt.
+                        Maak een <a href="https://www.tossdesign.nl/contact/" target="_blank">afspraak</a> voor een adviesgesprek en kom langs in onze inspiratieshowroom waar u de mooiste creaties ontdekt.
                     </p>
                     <p>
                     In onze showroom treft u ons prachtige Stylebook met meer informatie over ons bedrijf en de nieuwste trends op het gebied van keukens & living. In dit Stylebook nemen wij u mee naar één van onze klanten, zodat u onze kwaliteit kunt ervaren. Laat u inspireren door The Kitchen Art Studios!
@@ -107,10 +161,172 @@ function renderHtml() {
                 </div>
             </div>
             <br>
-            <p class="tka"><span>The</span> Kitchen Art Studios |</p>  
-                <p class="phrase">We Imagine Your Style</p>
+            <p class="tka"><span>The</span> Kitchen Art Studios</p>  
+            <p class="phrase">We Imagine Your Style</p>
+        </section>
+
+        <section>
+        <div class="col-md-12">
+            <br>
+            
+        </div>
+    </section>
+    <br>
+    <br>
+    <br>
+        <br>
+
+        <section class="row">
+            <div class="col-md-12 testimonials-row">
+            <div style="border-top: 20px solid #c99b0e; border-left: 20px solid #c99b0e; width: 96px; height: 96px; position: absolute; left: 0%; top: 0%; z-index:999;"></div>
+                <br>
+                <br>
+                <br>
+                <br>
+                <p class="testimonials-title">Dit vinden onze klanten:</p>
+                <!-- Swiper container -->
+                <div class="swiper-testimonials swiper-container">
+                    <!-- Additional required wrapper -->
+                    <div class="swiper-wrapper">
+                        <!-- Slides -->
+                        <div class="swiper-slide">
+                            <br>
+                            <br>
+                            <p class="testimonials-text">"Vriendelijke, meedenkend en helder advies op maat!"<p>
+                            <br>
+                            <p class="testimonials-author">- Hilde Rooijackers -</p>
+                            <br>
+                            <br>
+                        </div>
+                        <br>
+                        <br>
+                        <div class="swiper-slide">
+                            <br>
+                            <br>
+                            <p class="testimonials-text">"Goed advies door specialisten. <br>
+                            Nemen de tijd en zonder druk om direct te beslissen/handtekening te zetten."<p>
+                            <br>
+                            <p class="testimonials-author">- Marc van Deuveren -</p>
+                            <br>
+                            <br>
+                        </div>
+                        <br>
+                        <br>
+                        <div class="swiper-slide">
+                            <br>
+                            <br>
+                            <p class="testimonials-text">"Heel fijn geholpen. Goed meegedacht over de mogelijkheden in onze ruimte. <br> 
+                            Vriendelijke verkoopster. Eerlijk en transparant, wij zijn tevreden."<p>
+                            <br>
+                            <p class="testimonials-author">- Elke Rooijakkers -</p>
+                            <br>
+                            <br>
+                        </div>
+                        <br>
+                        <br>
+                        <div class="swiper-slide">
+                            <br>
+                            <br>
+                            <p class="testimonials-text">"Bij Toss Design komen ze met ideeën op de proppen waar wij totaal niet aan gedacht hadden. <br>
+                            De kwaliteit van de keuken is zeer goed. Mooi aanbod in Nolte en Poliform. <br> 
+                            Aanrader!"<p>
+                            <br>
+                            <p class="testimonials-author">- Teun Hoevenaars -</p>
+                            <br>
+                            <br>
+                        </div>
+                        <div class="swiper-slide">
+                            <br>
+                            <br>
+                            <p class="testimonials-text">"Toss Design mooi showroom en Toin en Michelle nemen de tijd voor u en verstand van zaken met inzicht."<p>
+                            <br>
+                            <p class="testimonials-author">- Thijs Merks -</p>
+                            <br>
+                            <br>
+                        </div>
+                        <div class="swiper-slide">
+                            <br>
+                            <br>
+                            <p class="testimonials-text">"Prettige mensen om mee te werken. Denken mee en wijzen ons op betere alternatieven. <br>
+                            Houden zich aan afspraken. Zeer tevreden."<p>
+                            <br>
+                            <p class="testimonials-author">- P. v. Ginneken -</p>
+                            <br>
+                            <br>
+                        </div>
+                        <div class="swiper-slide">
+                            <br>
+                            <br>
+                            <p class="testimonials-text">"Prachtige nieuwe keuken dankzij Toss Design Gemert!"<p>
+                            <br>
+                            <p class="testimonials-author">- Lonneke -</p>
+                            <br>
+                            <br>
+                        </div>  
+                        <div class="swiper-slide">
+                            <br>
+                            <br>
+                            <p class="testimonials-text">"Goed geholpen. Er word goed geluisterd en naar goede onderbouwde oplossingen gezocht. <br>
+                            Mooi ontwerp gekregen."<p>
+                            <br>
+                            <p class="testimonials-author">- Marianne Verbakel -</p>
+                            <br>
+                            <br>
+                        </div>                        
+                        <div class="swiper-slide">
+                            <br>
+                            <br>
+                            <p class="testimonials-text">"Aannemer van het bouwproject werkt samen met Toss Design. Enkele aanpassingen op de standaard keuken uitgekozen. <br>
+                            Zeer deskundig en vriendelijk geholpen. Altijd ruim de tijd, heel meedenkend en ondersteunend bij het maken van keuzes over materialen en apparatuur. Absolute aanrader!"<p>
+                            <br>
+                            <p class="testimonials-author">- Maarten -</p>
+                            <br>
+                            <br>
+                        </div>
+                        <div class="swiper-slide">
+                            <br>
+                            <br>
+                            <p class="testimonials-text">"Goed geadviseerd in de mogelijkheden voor en met het ontwerpen van de keuken. <br>
+                            Uiteindelijk een keuken waarbij design, kwaliteit en functionaliteit voorop staat. <br>
+                            Kortom een hele fijn service en echte vakmanschap!"<p>
+                            <br>
+                            <p class="testimonials-author">- Piet Geerts -</p>
+                            <br>
+                            <br>
+                        </div>
+                        <div class="swiper-slide">
+                            <br>
+                            <br>
+                            <p class="testimonials-text">"Bij Toss keukenstudio denkt men mee van begin tot eind. De nieuwe keuken is nog mooier en beter dan verwacht. <br>
+                            Ook voor de montage mensen een dikke voldoende. Toss is Top!"<p>
+                            <br>
+                            <p class="testimonials-author">- E. Bouwmans -</p>
+                            <br>
+                            <br>
+                        </div>   
+                        <div class="swiper-slide">
+                            <br>
+                            <br>
+                            <p class="testimonials-text">"Super, wat een kwaliteit van ontvangst, advies en optimale communicatie over het verloop van levering. <br>
+                            Chapeau 👍"<p>
+                            <br>
+                            <p class="testimonials-author">- D. Manders -</p>
+                            <br>
+                            <br>
+                        </div>                         
+                        <br>
+                        <br>
+                    </div>
+                    <div class="swiper-pagination"></div>                    
+                </div> 
+                <br>
+                <br>                
+                <div style="border-bottom: 20px solid #c99b0e; border-right: 20px solid #c99b0e; width: 96px; height: 96px; position: absolute; right: 0%; bottom: 0%; z-index:999;"></div>  
+            </div>
         </section>
         <br>
+        <br>
+           
     </div>
     <br>
     `;
