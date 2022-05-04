@@ -165,9 +165,7 @@ function renderHtml() {
             <div class="col col-md-6 split-text">
                 <h2>THE KITCHEN ART STUDIOS AWARD 2021</h2>
                 <p>
-                    Wij hebben de Publieks Award 2021 van The Kitchen Art Studios gewonnen!
-                    <br><br>
-                    Dankzij uw stem hebben we in totaal 599 stemmen van de totale 2291 stemmen ontvangen.
+                    Dankzij uw stem hebben wij hebben de Publieks Award 2021 van The Kitchen Art Studios gewonnen!
                     <br><br>
                     <span class="gold-text">Wij danken u allen hartelijk voor uw stem!</span>
                 </p>
