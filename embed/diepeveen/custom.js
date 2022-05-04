@@ -155,6 +155,26 @@ function renderHtml() {
         </section>  
         <br>
 
+        <section class="row text-img">
+            <div class="img-container col col-md-6">
+                <div>
+                    <img class="awards-stem" src="https://thekitchenartstudios.nl/wp-content/uploads/2022/03/tkas-marmer-goud.jpg" />
+                    <div class="stem-text"> <p class="stem-op-ons">WINNAAR<br>2021!</h1> </div>
+                </div>
+                    </div>
+            <div class="col col-md-6 split-text">
+                <h2>THE KITCHEN ART STUDIOS AWARD 2021</h2>
+                <p>
+                    Wij hebben de Publieks Award 2021 van The Kitchen Art Studios gewonnen!
+                    <br><br>
+                    Dankzij uw stem hebben we in totaal 599 stemmen van de totale 2291 stemmen ontvangen.
+                    <br><br>
+                    <span class="gold-text">Wij danken u allen hartelijk voor uw stem!</span>
+                </p>
+            </div>
+        </section>
+        <br>
+
         <section class="my-section">
             <div class="frame-content-container">
                 <div class="SM-container">

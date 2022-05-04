@@ -1510,6 +1510,7 @@
 .awards-stem {
   position: relative;
   text-align: center;
+  max-height: 330px;
 }
 
 .stem-text {
@@ -1527,6 +1528,11 @@
   color: #c99b0e !important;
 }
 
+.gold-text {
+  color: #C99B0E;
+  font-weight: 600;
+}
+
 @media (max-width: 600px) {
   .stem-op-ons {
     font-size: 40px !important;
@@ -1536,6 +1542,10 @@
 @media (max-width: 1000px) {
   .hide-on-mobile-tablet {
     display: none !important;
+  }
+
+  .split-text {
+    width: 100%;
   }
 }
 
