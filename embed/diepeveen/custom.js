@@ -158,8 +158,8 @@ function renderHtml() {
         <section class="row text-img">
             <div class="img-container col col-md-6">
                 <div>
-                    <img class="awards-stem" src="https://thekitchenartstudios.nl/wp-content/uploads/2022/03/tkas-marmer-goud.jpg" />
-                    <div class="stem-text"> <p class="stem-op-ons">WINNAAR<br>2021!</h1> </div>
+                    <img class="awards-stem" src="https://thekitchenartstudios.nl/wp-content/uploads/2022/06/Publieksaward-2021-1-embed.jpg" />
+                    <div class="stem-text"> <p class="stem-op-ons"></h1> </div>
                 </div>
                     </div>
             <div class="col col-md-6 split-text">
@@ -191,7 +191,7 @@ function renderHtml() {
                     </p>
                 </div>
             </div>
-            <br>
+            <br><br>
             <p class="tka"><span>The</span> Kitchen Art Studios</p>  
                 <p class="phrase">We Imagine Your Style</p>
         </section>
