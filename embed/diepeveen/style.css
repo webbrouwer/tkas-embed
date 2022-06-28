@@ -1511,6 +1511,7 @@
   position: relative;
   text-align: center;
   max-height: 330px;
+  object-position: left top;
 }
 
 .stem-text {

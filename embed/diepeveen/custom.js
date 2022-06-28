@@ -158,17 +158,33 @@ function renderHtml() {
         <section class="row text-img">
             <div class="img-container col col-md-6">
                 <div>
-                    <img class="awards-stem" src="https://thekitchenartstudios.nl/wp-content/uploads/2022/06/Publieksaward-2021-1-embed.jpg" />
+                    <img class="awards-stem" src="https://thekitchenartstudios.nl/wp-content/uploads/2022/06/PublieksAward_2021-Diepeveen-embed.jpg" />
                     <div class="stem-text"> <p class="stem-op-ons"></h1> </div>
                 </div>
                     </div>
             <div class="col col-md-6 split-text">
                 <h2>THE KITCHEN ART STUDIOS AWARD 2021</h2>
                 <p>
-                    Dankzij uw stem hebben wij hebben de Publieks Award 2021 van The Kitchen Art Studios gewonnen!
+                    Wij hebben dankzij uw stem de 1e prijs gewonnen in de Publieks Awards!
                     <br><br>
                     <span class="gold-text">Wij danken u allen hartelijk voor uw stem!</span>
                 </p>
+            </div>
+        </section>
+        <br>
+
+        <section class="row text-img">
+            <div class="col col-md-6 split-text">
+                <h2>THE KITCHEN ART STUDIOS AWARD 2021</h2>
+                <p>
+                    Daarnaast hebben wij ook nog de 3e prijs gewonnen in de Vakjury Awards. Jeroen Overmars van Designa Interieur en Architectuur vond ons ontwerp een verrassende combinatie tussen klassiek en modern, wat zorgt voor een frisse uitstraling maar ook een warme sfeer creëert.
+                </p>
+            </div>
+            <div class="img-container col col-md-6">
+                <div>
+                    <img class="awards-stem" src="https://thekitchenartstudios.nl/wp-content/uploads/2022/06/VakjuryAward_2021-Diepeveen-embed.jpg" />
+                    <div class="stem-text"> <p class="stem-op-ons"></h1> </div>
+                </div>
             </div>
         </section>
         <br>
