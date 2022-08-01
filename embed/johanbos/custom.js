@@ -134,9 +134,28 @@ function renderHtml() {
                     <img src="https://thekitchenartstudios.nl/wp-content/uploads/2021/10/johan-bos-the-kitchen-art-studios-stylebook-7-scaled.jpg">
                 </div>
               </div>
+            </div>            
+        </section>   
+        <br>    
+
+        <section class="row text-img">
+            <div class="img-container col col-md-6">
+                <div>
+                    <iframe class="mvdr" width="420" height="450" style="margin-bottom: -5.33px;"
+                        src="https://www.youtube.com/embed/eXYYO0NsaNA?playlist=eXYYO0NsaNA&loop=1&autoplay=1&mute=1&controls=0">
+                    </iframe>
+                </div>
             </div>
-        <br>             
-        </section>       
+            <div class="col col-md-6">
+                <h2>Moodboard Creator</h2>
+                <p>
+                    Beelden zeggen meer dan woorden! Daarom kunt u bij ons uw unieke moodboad creëren! Customize een van de trends van Monique van der Reijden of stel zelf samen vanuit de kleur- en materialendatabase. U kunt uw moodboard opslaan en per mail verzenden. Wij nodigen u graag uit om uw moodboard te bespreken tijdens een adviesgesprek.
+                </p>
+                <br>
+                <a href="https://moodboard.thekitchenartstudios.nl/moodboard-maken/" target="_blank">Create your own style</a>
+            </div>
+        </section>
+        <br>
 
         <section class="my-section">
             <div class="frame-content-container">
