@@ -15,7 +15,7 @@ function renderHtml() {
                     <img src="https://thekitchenartstudios.nl/wp-content/uploads/2022/02/the-kitchen-art-studios-logo.png" />
                 </div>
                 <div class="text-container-1">
-                    <h2>Welkom bij<br>The Kitchen Art Studios!</h2>
+                    <h2>Welkom bij<br>The Kitchen Art Studios! Voorbeeld</h2>
                     <p>
                     Wij zijn aangesloten bij het samenwerkingsconcept ‘The Kitchen Art Studios’: een landelijk platform van ware keukenprofessionals. Onze verbindende factor is de passie voor het creëren van een unieke keuken als ware eyecatcher. Wij zijn zelfstandige ondernemers die de filosofie ‘We imagine your style’ kunnen vertalen vanuit uw wensen. Door de krachten landelijk te bundelen op het gebied van inkoop en marketing, kunnen wij u de hoogste kwaliteit en de beste leveranciers bieden.
                     </p>
@@ -140,6 +140,25 @@ function renderHtml() {
             </div>           
         </section>
         <br>  
+
+        <section class="row text-img">
+            <div class="img-container col col-md-6">
+                <div>
+                    <iframe class="mvdr" width="420" height="450" style="margin-bottom: -5.33px;"
+                        src="https://www.youtube.com/embed/eXYYO0NsaNA?playlist=eXYYO0NsaNA&loop=1&autoplay=1&mute=1&controls=0">
+                    </iframe>
+                </div>
+            </div>
+            <div class="col col-md-6">
+                <h2>Moodboard Creator</h2>
+                <p>
+                    Beelden zeggen meer dan woorden! Daarom kunt u bij ons uw unieke moodboad creëren! Customize een van de trends van Monique van der Reijden of stel zelf samen vanuit de kleur- en materialendatabase. U kunt uw moodboard opslaan en per mail verzenden. Wij nodigen u graag uit om uw moodboard te bespreken tijdens een adviesgesprek.
+                </p>
+                <br>
+                <a href="https://moodboard.thekitchenartstudios.nl/moodboard-maken/" target="_blank">Create your own style</a>
+            </div>
+        </section>
+        <br>
 
         <section class="my-section">
             <div class="frame-content-container">

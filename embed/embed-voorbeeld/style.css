@@ -1263,11 +1263,13 @@
   
   .bootstrap-iso .mvdr {
     max-height: 450px;
+    width: 100%;
   }
   
   @media (max-width: 600px) {
     .bootstrap-iso .mvdr {
       max-height: 250px;
+      width: 100%;
     }
   }
   
