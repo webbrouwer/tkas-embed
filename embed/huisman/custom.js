@@ -34,52 +34,37 @@ function renderHtml() {
               <div class="swiper-wrapper">
                 <!-- Slides -->
                 <div class="swiper-slide">
-                    <img src="https://thekitchenartstudios.nl/wp-content/uploads/2021/03/MLF_4588ruw-scaled.jpg">
+                    <img src="https://thekitchenartstudios.nl/wp-content/uploads/2022/08/Huisman-slider-scaled.jpg">
                 </div>
                 <div class="swiper-slide">
-                    <img src="https://thekitchenartstudios.nl/wp-content/uploads/2020/10/the-kitchen-art-studios-diepeveen-keukens-familie-visser-klantverhaal-slider-1.png">
+                    <img src="https://thekitchenartstudios.nl/wp-content/uploads/2022/08/Huisman-slider-2-scaled.jpg">
                 </div>
                 <div class="swiper-slide">
-                    <img src="https://thekitchenartstudios.nl/wp-content/uploads/2020/10/the-kitchen-art-studios-diepeveen-keukens-familie-visser-contactslider.png">
+                    <img src="https://thekitchenartstudios.nl/wp-content/uploads/2022/08/Huisman-slider-3-scaled.jpg">
                 </div>
                 <div class="swiper-slide">
-                    <img src="https://thekitchenartstudios.nl/wp-content/uploads/2021/03/Fotolux_Diepeveen_10-07-2020_HR-3-scaled.jpg">
+                    <img src="https://thekitchenartstudios.nl/wp-content/uploads/2022/08/Huisman-slider-4-scaled.jpg">
                 </div>
                 <div class="swiper-slide">
-                    <img src="https://thekitchenartstudios.nl/wp-content/uploads/2021/03/MLF_9377ruw-copy-scaled.jpg">
+                    <img src="https://thekitchenartstudios.nl/wp-content/uploads/2022/08/Huisman-slider-5-scaled.jpg">
                 </div>
                 <div class="swiper-slide">
-                    <img src="https://thekitchenartstudios.nl/wp-content/uploads/2021/03/MLF_9388goed-scaled.jpg">
+                    <img src="https://thekitchenartstudios.nl/wp-content/uploads/2022/08/Huisman-slider-6-scaled.jpg">
                 </div>
                 <div class="swiper-slide">
-                    <img src="https://thekitchenartstudios.nl/wp-content/uploads/2021/03/MLF_9412ruw-scaled.jpg">
+                    <img src="https://thekitchenartstudios.nl/wp-content/uploads/2022/08/Huisman-slider-7-scaled.jpg">
                 </div>
                 <div class="swiper-slide">
-                    <img src="https://thekitchenartstudios.nl/wp-content/uploads/2021/03/MLF_9419ruw-copy-scaled.jpg">
+                    <img src="https://thekitchenartstudios.nl/wp-content/uploads/2022/08/Huisman-slider-8-scaled.jpg">
                 </div>
                 <div class="swiper-slide">
-                    <img src="https://thekitchenartstudios.nl/wp-content/uploads/2021/03/MLF_9444goed-scaled.jpg">
+                    <img src="https://thekitchenartstudios.nl/wp-content/uploads/2022/08/Huisman-slider-9-scaled.jpg">
                 </div>
                 <div class="swiper-slide">
-                    <img src="https://thekitchenartstudios.nl/wp-content/uploads/2021/03/MLF_9445ruw-scaled.jpg">
+                    <img src="https://thekitchenartstudios.nl/wp-content/uploads/2022/08/Huisman-slider-10-scaled.jpg">
                 </div>
                 <div class="swiper-slide">
-                    <img src="https://thekitchenartstudios.nl/wp-content/uploads/2021/03/MLF_9452ruw-copy-scaled.jpg">
-                </div>
-                <div class="swiper-slide">
-                    <img src="https://thekitchenartstudios.nl/wp-content/uploads/2021/03/0azHXKuA-scaled.jpeg">
-                </div>
-                <div class="swiper-slide">
-                    <img src="https://thekitchenartstudios.nl/wp-content/uploads/2021/03/MLF_9455ruw-scaled.jpg">
-                </div>
-                <div class="swiper-slide">
-                    <img src="https://thekitchenartstudios.nl/wp-content/uploads/2021/03/MLF_4645ruw-scaled.jpg">
-                </div>
-                <div class="swiper-slide">
-                    <img src="https://thekitchenartstudios.nl/wp-content/uploads/2021/03/MLF_4626ruw-copy-scaled.jpg">
-                </div>
-                <div class="swiper-slide">
-                    <img src="https://thekitchenartstudios.nl/wp-content/uploads/2021/03/Fotolux_Diepeveen_10-07-2020_HR-1-scaled.jpg">
+                    <img src="https://thekitchenartstudios.nl/wp-content/uploads/2022/08/Huisman-slider-11-scaled.jpg">
                 </div>
               </div>
             </div>
@@ -136,57 +121,29 @@ function renderHtml() {
               <div class="swiper-wrapper">
                 <!-- Slides -->
                 <div class="swiper-slide">
-                    <img src="https://thekitchenartstudios.nl/wp-content/uploads/2021/04/tka-stylebook-1.jpeg">
+                    <img src="https://thekitchenartstudios.nl/wp-content/uploads/2022/08/Huisman-stylebook.jpg">
                 </div>
                 <div class="swiper-slide">
-                    <img src="https://thekitchenartstudios.nl/wp-content/uploads/2021/04/tka-stylebook-2.jpeg">
+                    <img src="https://thekitchenartstudios.nl/wp-content/uploads/2022/08/Huisman-stylebook-2.jpg">
                 </div>
                 <div class="swiper-slide">
-                    <img src="https://thekitchenartstudios.nl/wp-content/uploads/2021/04/tka-stylebook-3.png">
+                    <img src="https://thekitchenartstudios.nl/wp-content/uploads/2022/08/Huisman-stylebook-3.jpg">
                 </div>
                 <div class="swiper-slide">
-                    <img src="https://thekitchenartstudios.nl/wp-content/uploads/2021/04/tka-stylebook-4.png">
+                    <img src="https://thekitchenartstudios.nl/wp-content/uploads/2022/08/Huisman-stylebook-4.jpg">
                 </div>
                 <div class="swiper-slide">
-                    <img src="https://thekitchenartstudios.nl/wp-content/uploads/2021/04/tka-stylebook-5.png">
+                    <img src="https://thekitchenartstudios.nl/wp-content/uploads/2022/08/Huisman-stylebook-5.jpg">
+                </div>
+                <div class="swiper-slide">
+                    <img src="https://thekitchenartstudios.nl/wp-content/uploads/2022/08/Huisman-stylebook-6.jpg">
+                </div>
+                <div class="swiper-slide">
+                    <img src="https://thekitchenartstudios.nl/wp-content/uploads/2022/08/Huisman-stylebook-7.jpg">
                 </div>
               </div>
             </div>          
         </section>  
-        <br>
-
-        <section class="row text-img">
-            <div class="img-container col col-md-6">
-                <div>
-                    <img class="awards-stem" src="https://thekitchenartstudios.nl/wp-content/uploads/2022/06/PublieksAward_2021-Diepeveen-embed.jpg" />
-                    <div class="stem-text"> <p class="stem-op-ons"></h1> </div>
-                </div>
-                    </div>
-            <div class="col col-md-6 split-text">
-                <h2>THE KITCHEN ART STUDIOS AWARD 2021</h2>
-                <p>
-                    Wij hebben dankzij uw stem de 1e prijs gewonnen in de Publieks Awards!
-                    <br><br>
-                    <span class="gold-text">Wij danken u allen hartelijk voor uw stem!</span>
-                </p>
-            </div>
-        </section>
-        <br>
-
-        <section class="row text-img">
-            <div class="col col-md-6 split-text">
-                <h2>THE KITCHEN ART STUDIOS AWARD 2021</h2>
-                <p>
-                    Daarnaast hebben wij ook nog de 3e prijs gewonnen in de Vakjury Awards. Jeroen Overmars van Designa Interieur en Architectuur vond ons ontwerp een verrassende combinatie tussen klassiek en modern, wat zorgt voor een frisse uitstraling maar ook een warme sfeer creëert.
-                </p>
-            </div>
-            <div class="img-container col col-md-6">
-                <div>
-                    <img class="awards-stem" src="https://thekitchenartstudios.nl/wp-content/uploads/2022/06/VakjuryAward_2021-Diepeveen-embed.jpg" />
-                    <div class="stem-text"> <p class="stem-op-ons"></h1> </div>
-                </div>
-            </div>
-        </section>
         <br>
 
         <section class="row text-img">
@@ -231,49 +188,7 @@ function renderHtml() {
                 <p class="phrase">We Imagine Your Style</p>
         </section>
             <br>
-    
-        <section class="row">
-            <div class="col-md-12 testimonials-row">
-            <div style="border-top: 20px solid #c99b0e; border-left: 20px solid #c99b0e; width: 96px; height: 96px; position: absolute; left: 0%; top: 0%; z-index:999;"></div>
-                <br>
-                <br>
-                <br>
-                <br>
-                <p class="testimonials-title">Dit vinden onze klanten:</p>
-                <!-- Swiper container -->
-                <div class="swiper-testimonials swiper-container">
-                    <!-- Additional required wrapper -->
-                    <div class="swiper-wrapper">
-                        <!-- Slides -->
-                        <div class="swiper-slide">
-                            <br>
-                            <br>
-                            <p class="testimonials-text">"Gijsbert en Aris Diepeveen hebben veel vakkennis.<br> Samen met het team en de monteurs hebben ze van onze leefkeuken een echte eyecatcher gemaakt.<br> Wij zijn supertevreden over het vakmanschap van deze mensen!"<p>
-                            <br>
-                            <p class="testimonials-author">- Nathalie Kleinherenbrink -</p>
-                            <br>
-                            <br>
-                        </div>                        
-                        <div class="swiper-slide">
-                            <br>
-                            <br>
-                            <p class="testimonials-text">"We zijn bij de aankoop van onze nieuwe keuken perfect door Aris Diepeveen geholpen.<br> Hij kwam met het juiste aanbod, had veel kennis van zaken op basis waarvan we een goede keuze konden maken.<br> We kijken er naar uit om een wijntje met hem te drinken in onze nieuwe keuken ;-)."<p>
-                            <br>
-                            <p class="testimonials-author">- Nicole -</p>
-                            <br>
-                            <br>
-                        </div>
-                        <br>
-                        <br>
-                    </div>
-                    <div class="swiper-pagination"></div>                    
-                </div> 
-                <br>
-                <br>                
-                <div style="border-bottom: 20px solid #c99b0e; border-right: 20px solid #c99b0e; width: 96px; height: 96px; position: absolute; right: 0%; bottom: 0%; z-index:999;"></div>  
-            </div>
-        </section>
-
+        
     </div>
     <br>
     `;
