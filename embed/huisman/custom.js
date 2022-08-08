@@ -102,7 +102,7 @@ function renderHtml() {
                 Wij, van The Kitchen Art Studios, hebben een uitstekende samenwerking met Designa Interieur en Architectuur: bekend van het RTL4 programma ‘Van Woonvilla naar Droomvilla’. In samenwerking met Designa worden de nieuwste trends gespot door ons op het gebied van statement keukens en innovatieve apparatuur.
                 </p>
                 <br>
-                <a href="https://youtu.be/Nd6qU1-pK5w" target="_blank">Bekijk afleveringen</a>
+                <a href="https://thekitchenartstudios.nl/the-kitchen-art-studios-op-tv/" target="_blank">Bekijk afleveringen</a>
             </div>
             <div class="img-container col col-md-6" id="rtl-section">
                 <img src="https://thekitchenartstudios.nl/wp-content/uploads/2020/05/Kitchen-art-studios-samenwerkingen-designa-keukens-schilderij.png" />
