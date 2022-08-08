@@ -1,9 +1,9 @@
-var diepeveenEmbed = document.querySelector('#huisman-embed');
+var HuismanEmbed = document.querySelector('#huisman-embed');
 
 
 
 function renderHtml() {
-    diepeveenEmbed.innerHTML = `
+    HuismanEmbed.innerHTML = `
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Lato&display=swap" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="https://unpkg.com/swiper/swiper-bundle.css" />
@@ -176,7 +176,7 @@ function renderHtml() {
                 <div class="text-container-1">
                     <h2>Ready to imagine your style?</h2>
                     <p>
-                        Maak een <a href="https://diepeveen.nl/contact/" target="_blank">afspraak</a> voor een adviesgesprek en kom langs in onze inspiratieshowroom waar u de mooiste creaties ontdekt.
+                        Maak een <a href="https://www.huismankeukens.nl/contact/" target="_blank">afspraak</a> voor een adviesgesprek en kom langs in onze inspiratieshowroom waar u de mooiste creaties ontdekt.
                     </p>
                     <p>
                     In onze showroom treft u ons prachtige Stylebook met meer informatie over ons bedrijf en de nieuwste trends op het gebied van keukens & living. In dit Stylebook nemen wij u mee naar één van onze klanten, zodat u onze kwaliteit kunt ervaren. Laat u inspireren door The Kitchen Art Studios!
