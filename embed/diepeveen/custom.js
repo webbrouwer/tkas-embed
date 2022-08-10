@@ -263,6 +263,15 @@ function renderHtml() {
                             <br>
                             <br>
                         </div>
+                        <div class="swiper-slide">
+                            <br>
+                            <br>
+                            <p class="testimonials-text">"Vriendelijk personeel, meedenkend en heel geduldig met het maken van keuzes. Jesse heeft voor ons een prachtig ontwerp gemaakt en we hebben er alle vertrouwen in dat alles vakkundig geplaatst zal worden."<p>
+                            <br>
+                            <p class="testimonials-author">- Fam. Versteeg -</p>
+                            <br>
+                            <br>
+                        </div>
                         <br>
                         <br>
                     </div>
