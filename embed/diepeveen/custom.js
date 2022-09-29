@@ -248,6 +248,24 @@ function renderHtml() {
                         <div class="swiper-slide">
                             <br>
                             <br>
+                            <p class="testimonials-text">"Prima geholpen. Op maat gemaakte keuken voor mij gevonden. Goede service!"<p>
+                            <br>
+                            <p class="testimonials-author">- Bertie van Andel -</p>
+                            <br>
+                            <br>
+                        </div> 
+                        <div class="swiper-slide">
+                            <br>
+                            <br>
+                            <p class="testimonials-text">"Vriendelijke geholpen, duidelijke uitleg en er wordt meegedacht. We kijken erg uit naar onze keuken!"<p>
+                            <br>
+                            <p class="testimonials-author">- Annelore Verweij -</p>
+                            <br>
+                            <br>
+                        </div>    
+                        <div class="swiper-slide">
+                            <br>
+                            <br>
                             <p class="testimonials-text">"Gijsbert en Aris Diepeveen hebben veel vakkennis.<br> Samen met het team en de monteurs hebben ze van onze leefkeuken een echte eyecatcher gemaakt.<br> Wij zijn supertevreden over het vakmanschap van deze mensen!"<p>
                             <br>
                             <p class="testimonials-author">- Nathalie Kleinherenbrink -</p>
