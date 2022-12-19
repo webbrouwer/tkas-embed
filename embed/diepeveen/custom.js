@@ -248,6 +248,33 @@ function renderHtml() {
                         <div class="swiper-slide">
                             <br>
                             <br>
+                            <p class="testimonials-text">"De keuken die wij 12 jaar geleden gekocht hebben bij dit bedrijf is nog als nieuw vandaar dat onze keus voor ons nieuwe huis niet moeilijk was om weer naar dezelfde showroom te gaan!"<p>
+                            <br>
+                            <p class="testimonials-author">- M. de Vries -</p>
+                            <br>
+                            <br>
+                        </div>                          
+                        <div class="swiper-slide">
+                            <br>
+                            <br>
+                            <p class="testimonials-text">"Fijne samenwerking, naar volle tevredenheid. En snelle interactie!"<p>
+                            <br>
+                            <p class="testimonials-author">- H. van Andel -</p>
+                            <br>
+                            <br>
+                        </div>                        
+                        <div class="swiper-slide">
+                            <br>
+                            <br>
+                            <p class="testimonials-text">"Goed luisteren en meedenken met ons als klant, maakte dat we tot een mooi plan kwamen."<p>
+                            <br>
+                            <p class="testimonials-author">- Joyce Bergsma -</p>
+                            <br>
+                            <br>
+                        </div>                         
+                        <div class="swiper-slide">
+                            <br>
+                            <br>
                             <p class="testimonials-text">"Prima geholpen. Op maat gemaakte keuken voor mij gevonden. Goede service!"<p>
                             <br>
                             <p class="testimonials-author">- Bertie van Andel -</p>
