@@ -210,6 +210,17 @@ function renderHtml() {
                         <div class="swiper-slide">
                             <br>
                             <br>
+                            <p class="testimonials-text">"Afspraken en advies zijn goed verlopen."<p>
+                            <br>
+                            <p class="testimonials-author">- Bob Lenkens -</p>
+                            <br>
+                            <br>
+                        </div>
+                        <br>
+                        <br>
+                        <div class="swiper-slide">
+                            <br>
+                            <br>
                             <p class="testimonials-text">"Super goed geholpen en alles tot in de puntjes verzorgt!"<p>
                             <br>
                             <p class="testimonials-author">- Lizeth Verhoeven -</p>
