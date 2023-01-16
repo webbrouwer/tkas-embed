@@ -210,6 +210,18 @@ function renderHtml() {
                         <div class="swiper-slide">
                             <br>
                             <br>
+                            <p class="testimonials-text">"Als starters opzoek naar onze eerste keuken voor onze nieuwbouwwoning.<br>
+Met een keukenopstelling in ons hoofd zijn we terecht gekomen bij Toss Design. Na ons idee voorgelegd te hebben kwamen zij met een compleet ander en beter idee. Er wordt dus niet alleen goed naar je geluisterd maar ook daadwerkelijk goed geadviseerd. Vervolgens over meerdere afspraken verspreid goed begeleid in het koopproces."<p>
+                            <br>
+                            <p class="testimonials-author">- H. Hensen -</p>
+                            <br>
+                            <br>
+                        </div>
+                        <br>
+                        <br>                        
+                        <div class="swiper-slide">
+                            <br>
+                            <br>
                             <p class="testimonials-text">"Afspraken en advies zijn goed verlopen."<p>
                             <br>
                             <p class="testimonials-author">- Bob Lenkens -</p>
