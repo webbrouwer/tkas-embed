@@ -248,12 +248,39 @@ function renderHtml() {
                         <div class="swiper-slide">
                             <br>
                             <br>
+                            <p class="testimonials-text">"Fijne begeleiding naar de juiste keuze."<p>
+                            <br>
+                            <p class="testimonials-author">- E. Prent -</p>
+                            <br>
+                            <br>
+                        </div>
+                        <div class="swiper-slide">
+                            <br>
+                            <br>
+                            <p class="testimonials-text">"Wij zijn heel goed geholpen, vriendelijk en er wordt goed naar onze wensen geluisterd. Wat heeft geleid tot het realiseren van onze prachtige keuken."<p>
+                            <br>
+                            <p class="testimonials-author">- B. van Kalkeren -</p>
+                            <br>
+                            <br>
+                        </div>
+                        <div class="swiper-slide">
+                            <br>
+                            <br>
+                            <p class="testimonials-text">"Het is niet voor niets dat wij nadat we enkele jaren geleden een nieuwe keuken daar kochten dit nu voor de tweede keer weer doen i.v.m. verhuizing! We hadden de keuken graag zo mee willen nemen maar dat gaat natuurlijk niet, dus zeiden we je mag precies dezelfde keuken weer plaatsen met zelfs een bredere apothekerskast! Dat zegt genoeg toch?"<p>
+                            <br>
+                            <p class="testimonials-author">- Jan en Gerrie Gijsbers -</p>
+                            <br>
+                            <br>
+                        </div>   
+                        <div class="swiper-slide">
+                            <br>
+                            <br>
                             <p class="testimonials-text">"De keuken die wij 12 jaar geleden gekocht hebben bij dit bedrijf is nog als nieuw vandaar dat onze keus voor ons nieuwe huis niet moeilijk was om weer naar dezelfde showroom te gaan!"<p>
                             <br>
                             <p class="testimonials-author">- M. de Vries -</p>
                             <br>
                             <br>
-                        </div>                          
+                        </div>                       
                         <div class="swiper-slide">
                             <br>
                             <br>
