@@ -248,6 +248,15 @@ function renderHtml() {
                         <div class="swiper-slide">
                             <br>
                             <br>
+                            <p class="testimonials-text">"Prettige adviesgesprekken, na de koop toch nog zaken kunnen wijzigen. Altijd met geduld ontvangen en met advies de deur uit gegaan."<p>
+                            <br>
+                            <p class="testimonials-author">- W.L. Edel -</p>
+                            <br>
+                            <br>
+                        </div>                          
+                        <div class="swiper-slide">
+                            <br>
+                            <br>
                             <p class="testimonials-text">"Zeer vriendelijke mensen, vak bekwaam, luisteren goed en geven een mooi advies naar wensen van de klant, de werkzaamheden gaat precies zoals in de planning staat. Zijn zeer tevreden."<p>
                             <br>
                             <p class="testimonials-author">- E. Pellegrom -</p>
