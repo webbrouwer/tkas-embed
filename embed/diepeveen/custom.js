@@ -248,6 +248,15 @@ function renderHtml() {
                         <div class="swiper-slide">
                             <br>
                             <br>
+                            <p class="testimonials-text">"Afspraken worden nagekomen, vriendelijk personeel. Vragen worden snel beantwoord."<p>
+                            <br>
+                            <p class="testimonials-author">- Jacqueline -</p>
+                            <br>
+                            <br>
+                        </div>                         
+                        <div class="swiper-slide">
+                            <br>
+                            <br>
                             <p class="testimonials-text">"Prettige adviesgesprekken, na de koop toch nog zaken kunnen wijzigen. Altijd met geduld ontvangen en met advies de deur uit gegaan."<p>
                             <br>
                             <p class="testimonials-author">- W.L. Edel -</p>

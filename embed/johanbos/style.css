@@ -1153,7 +1153,8 @@
   font-family: "Lato";
   font-size: 17px;
   color: #303030;
-  margin-bottom: 0px;
+  margin-bottom: 0px !important;
+  padding-bottom: 0px !important;
 }
 
 .bootstrap-iso section p+p {

@@ -175,9 +175,45 @@ function renderHtml() {
                     </p>
                 </div>
             </div>
-            <p class="tka"><span>The</span> Kitchen Art Studios</p>
-            <p class="phrase">We Imagine Your Style</p>
+            <br><br>
+            <p class="tka"><span>The</span> Kitchen Art Studios</p>  
+                <p class="phrase">We Imagine Your Style</p>
         </section>
+            <br>
+    
+        <section class="row">
+            <div class="col-md-12 testimonials-row">
+            <div style="border-top: 20px solid #c99b0e; border-left: 20px solid #c99b0e; width: 96px; height: 96px; position: absolute; left: 0%; top: 0%; z-index:999;"></div>
+                <br>
+                <br>
+                <br>
+                <br>
+                <p class="testimonials-title">Dit vinden onze klanten:</p>
+                <!-- Swiper container -->
+                <div class="swiper-testimonials swiper-container">
+                    <!-- Additional required wrapper -->
+                    <div class="swiper-wrapper">
+                        <!-- Slides -->
+                        <div class="swiper-slide">
+                            <br>
+                            <br>
+                            <p class="testimonials-text">"Het hele proces van het ontwerp van de keuken tot en met de oplevering. Is door mijn schoondochter en zoon als zeer prettig ervaren."<p>
+                            <br>
+                            <p class="testimonials-author">- P. Kemna -</p>
+                            <br>
+                            <br>
+                        </div>                         
+                        <br>
+                        <br>
+                    </div>
+                    <div class="swiper-pagination"></div>                    
+                </div> 
+                <br>
+                <br>                
+                <div style="border-bottom: 20px solid #c99b0e; border-right: 20px solid #c99b0e; width: 96px; height: 96px; position: absolute; right: 0%; bottom: 0%; z-index:999;"></div>  
+            </div>
+        </section>
+
     </div>
     <br>
     `;
